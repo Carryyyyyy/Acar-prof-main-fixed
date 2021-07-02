@@ -1,7 +1,7 @@
 module.exports = {
     sistem: true,// TRUE MOD AÇIK
     //FALSE MOD KAPALI
-    coinIsmi: "Vientra",//SUNUCU İSMİ
+    coinIsmi: "",//Para Birimi / Sunucu İsmi / ....
     kacmilisaniyesonra: "600000",
     kacmesajdabir: "7",
     odül : {
