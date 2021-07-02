@@ -1,0 +1,30 @@
+{
+    "sunucuID" : "858019641804849172",
+    "sunucuIsmi": "Vientra",
+    "sunucuCapsIsmi": "V I E N T R A",
+    "tag": "△",
+    "tagsiz": "•",
+    "yasakTaglar": ["yasaklıtaggirinbunu"],
+    "link": "https://discord.gg/vientra",
+    "minYaş": "13",
+    "taglıalım": false,
+
+    "kufurEngel": true,
+    "reklamEngel": true,
+    
+    "acarkre": {
+        "konsolBilgi": true,
+        "uyariMesaji": true,
+        "izinliKanallar": ["858020774820446285"],
+        "kufurUyariMesaji": "Birdaha küfür etmemelisin aksi taktirde ceza alacaksın.", 
+        "reklamUyariMesaji": "Birdaha reklam yapmamalısın aksi taktirde ceza alacaksın."
+    },
+
+    "embed": {
+        "iconURL": "https://cdn.discordapp.com/icons/858019641804849172/a_dde92a960bbdfa11b96c1ba2d5709bf2.gif?size=128",
+        "başlık": "V I E N T R A △",
+        "altbaşlık": "△ Vientra Developed By CARRY",
+        "renk": "#RANDOM"
+    }
+
+}
