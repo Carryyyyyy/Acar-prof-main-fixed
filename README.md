@@ -10,6 +10,7 @@ Ayrıca istediğiniz veritabanını hızlıca kodlayabileceksiniz sadece ./Refer
 
 ### install Modules Ve Starter Bat 
 Uzantıyı Açın Ve Modüllerin Yüklenmesini bekleyiniz.
+
 **START**
 ```echo off
 title KOMUT SİSTEMİ İSMİ.
