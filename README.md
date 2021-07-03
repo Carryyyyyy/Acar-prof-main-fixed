@@ -10,7 +10,7 @@ Ayrıca istediğiniz veritabanını hızlıca kodlayabileceksiniz sadece ./Refer
 
 ### install Modules Ve Starter Bat 
 Uzantıyı Açın Ve Modüllerin Yüklenmesini bekleyiniz.
-** START **
+**START**
 ```echo off
 title KOMUT SİSTEMİ İSMİ.
 color d
@@ -19,7 +19,7 @@ cls
 node <maindosya.js>
 goto a
 ```
-** START **
+**START**
 
 ### kanallar.json
 Kanalların içinde bulunan kanal isimlerini tek tek log kanallarnıza açın
