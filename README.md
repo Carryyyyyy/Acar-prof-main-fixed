@@ -8,6 +8,19 @@ Kayıt olan kişi taglı alım modunda iken cezalıda da olsa yasaklı tagda da 
 Taglı alım modu kapalıysa üyenin cinsiyet verisi varsa otomatik kayıt işlemini alır ve kaydını tamamlar.
 Ayrıca istediğiniz veritabanını hızlıca kodlayabileceksiniz sadece ./Reference/acarDatabase.js içindeki fonksiyonları değiştirmeden içindeki kodlamayı değiştirip sistemi kendi dilediğiniz gibi kodlayabileceksiniz.
 
+### install Modules Ve Starter Bat 
+Uzantıyı Açın Ve Modüllerin Yüklenmesini bekleyiniz.
+** START **
+```echo off
+title KOMUT SİSTEMİ İSMİ.
+color d
+cls
+:a
+node <maindosya.js>
+goto a
+```
+** START **
+
 ### kanallar.json
 Kanalların içinde bulunan kanal isimlerini tek tek log kanallarnıza açın
 
