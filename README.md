@@ -37,4 +37,21 @@ if(getir.seviye == 2) {
   if(!uye.roles.cache.has(roller.teleportHammer)) uye.roles.add(roller.teleportHammer) 
 }; 
 ```
+
+**ACARKE BİLGİLENDİRME**
+
+Küfür Ve Reklam Engel Modülüdür.
+
+Eğer Log Penceresinde ACAR KÜFÜR SYSTEM YAZMASINI İSTEMİYORSANIZ ŞUNLARI YAPINIZ.
+
+1. Node Modules Klasorune Girip " ACARKE " Buluyoruz.
+
+2. Klasorun İçine Girip acar.js'yi Açıyoruz
+
+3. Orada ACAR SYSTEM Yazan Yerleri İstediğiniz Gibi Değiştirebilirsiniz.
+
+4. Modülü Her Yüklediğinizde Bu Yaptığınız Ayarlar Sıfırlanır!
+   
+**ACARKE BİLGİLENDİRME**
+
 #### Kesinlikle 324 satır kısmına girilmelidir aksi taktirde sistemi bozabilirsiniz.
