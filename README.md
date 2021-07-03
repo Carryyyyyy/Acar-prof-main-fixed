@@ -1,6 +1,6 @@
 # ACAR Professional Moderation & Upstaff & Coin System Bot
 
-Bu Alt Yapı Acarın Alt Yapısıdır ve ! Carryyyyyy ✩#0001 - (740964663239508020) Tarafından Bir Çok Hatası Düzeltirmiştir İyi Kullanımlar Dileriz.
+Bu Alt Yapı Acarın Alt Yapısıdır ve ! Carryyyyyy ✩#0001 - (740964663239508020) Tarafından Bir Çok Hatası Düzeltilmiştir İyi Kullanımlar Dileriz.
 
 Gelişmiş cezalandırma sistemi ve ceza bilgi sistemi ayrıca gelişmiş kayıt sistemi ve düzenli bir altyapı bütün hepsi içindedir.
 Taglı üye, kayıt, ses ve mesaj aktifliğine göre otomatik yetki atlama ve coin kazanma sistemi içine dahildir dilediğiniz zaman kapatıp açabilirsiniz.
